@@ -1,0 +1,33 @@
+Privacy Policy for Guruhelper
+Last updated: April 9, 2026
+Guruhelper ("we", "us", or "our") operates the Guruhelper mobile application (the "App"). This Privacy Policy describes how we collect, use, and protect your personal information.
+1. Information We Collect
+We collect the following types of information:
+- Account Information: Name and email address when you register or sign in using email, Google, or Apple.
+- User Content: Photos, images, and audio recordings that you attach to your tasks and schedules.
+- User Identifiers: A unique user ID is generated for your account.
+- Device Information: Push notification tokens to send you task notifications.
+2. How We Use Your Information
+We use your information for the following purposes:
+- To provide and maintain the app functionality (scheduling, task management)
+- To authenticate your identity and secure your account
+- To send push notifications about your tasks and team activities
+- To enable team collaboration features
+3. Data Storage and Security
+Your data is stored securely using Google Firebase services including Firebase Authentication, Cloud Firestore, and Firebase Cloud Storage. All data is transmitted using industry-standard encryption (HTTPS/TLS).
+4. Data Sharing
+We do not sell, trade, or share your personal information with third parties. Your data is only shared within your team if you choose to join or create a team within the app.
+5. Third-Party Services
+The app uses Google Firebase for authentication, database, and file storage. The app also uses Google Sign-In and Apple Sign-In for optional account authentication.
+6. Your Rights
+You have the right to access your personal data, request deletion of your account, and update your personal information through the app profile settings.
+7. Data Retention
+Your data is retained as long as your account is active. If you delete your account, your personal data will be removed within 30 days.
+8. Children Privacy
+Our app is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+9. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted on this page.
+10. Contact Us
+If you have questions about this Privacy Policy, contact us at:
+Email: urjinchimed@gmail.com
+Developer: Urjinchimed Amarjargal
